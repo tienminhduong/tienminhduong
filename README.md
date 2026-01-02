@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Unity Game Developer looking for an internship.
+
+Favorite tech: Unity, C#
