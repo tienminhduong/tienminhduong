@@ -1,3 +1,5 @@
+name: Generate Snake Animation
+
 on:
   schedule:
     # auto run every midnight
