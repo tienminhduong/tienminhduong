@@ -49,7 +49,7 @@ I'm a Unity Game Developer looking for an internship.
 ### 🕹️ Featured Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tienminhduong/tienminhduong/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/tienminhduong/tienminhduong/78a233d2ffaa538bf1865d355acb646057aa7987/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
