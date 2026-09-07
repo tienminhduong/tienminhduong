@@ -11,7 +11,7 @@
 
 ### 💫 About Me
 
-I'm a Unity Game Developer looking for an internship.
+I'm a Unity Game Developer.
 
 - 📬 **Reach me at:** 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmd31052005@gmail.com)
